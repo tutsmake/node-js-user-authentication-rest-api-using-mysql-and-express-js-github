@@ -38,5 +38,8 @@ Tutorial: Create a User Authentication RESTful API using NodeJS Express and MySQ
 ##POST
 
 http://localhost:3000/api/register
+
 http://localhost:3000/api/login
+
 http://localhost:3000/api/get-user
+
